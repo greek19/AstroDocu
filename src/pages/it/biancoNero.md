@@ -668,7 +668,591 @@ ARS-IMAGO FE ECO FILM DEVELOPER è una soluzione concentrata che può essere dil
 
 <b>DILUIZIONE 1+1 - Soluzione stock</b>
 
-<div style="padding: 2px 16px;">
-        <p>500 ml &emsp; + &emsp; 500 ml &emsp; =  &emsp; 1L</p>
-        <p>acqua   &emsp;&emsp; chimica &emsp;    stabilizzatore</p>
-    </div>
+<div style="border: 1px solid black; padding:2%; width:75%">
+   <p>500 ml &emsp; + &emsp; 500 ml &emsp; =  &emsp; 1L</p>
+   <p>acqua   &emsp;&emsp;&emsp; chimica &emsp;&emsp;    WORKING SOLUTION</p>
+</div>
+
+Per sviluppare fino a 15 pellicole è consigliato aumentare il tempo di sviluppo del 15% ogni 3 pellicole.
+
+<b>DILUIZIONE 1+3 - Soluzione One Shot</b>
+
+<div style="border: 1px solid black; padding:2%; width:75%">
+   <p>750 ml &emsp; + &emsp; 250 ml &emsp; =  &emsp; 1L</p>
+   <p>acqua   &emsp;&emsp;&emsp; chimica &emsp;&emsp;    ONE SHOT SOLUTION</p>
+</div>
+
+Diluire subito prima dell'utilizzo e gettare dopo l'uso.
+
+## <h3><strong>CARATTERISTICHE</strong></h3>
+
+<ul>
+   <li>Sviluppo Eco-hydroquinone free</li>
+   <li>Sviluppo universale per qualsiasi pellciola bn Sensibilità delle pellicole sfruttata a fondo</li>
+   <li>Grana fine e ottima nitidezza</li>
+   <li>Compensazione lieve e buoni risultati nelle alte luci</li>
+</ul>
+
+## <h3><strong>TEMPERATURA</strong></h3>
+
+La soluzione di lavoro deve essere utilizzat a 201 Durante tutto il processo di sviluppo, inclusi ar resto, fissaggio e lavaggio finale, la temperatura deve essere mantenuta il più possibile constante.
+
+## <h3><strong>AGITAZIONE</strong></h3>
+
+Agitazione consigliata per lo sviluppo in Tank: continua per i primi 30 secondi, due invesioni ogni 30 secondi per il restante tempo di svilup po. Il tempo di sviluppo ha inizio dal momento in cui la soluzione viene introdotta nella tank e termina nel momento in cui viene introdotto il bagno di arresto.
+
+Alle fine di ogni agitazione sbattere la tank sul piano di lavoro per evitare la formazione di bolle d'aria sulla superficie delle pellicole.
+
+## <h3><strong>CAPACITA` E DURATA</strong></h3>
+
+La soluzione con diluzione 1+1 può sviluppare fino a 15 pellicole. Il tempo di sviluppo deve essere aumentato del 15% ogni 3 pellicole. Si consiglia di usare la soluzione concentrata entro 4 mesi (con tenitore completamente pieno) o 2 mesi (conten itore parzialmente pieno). La soluzione one shot deve essere gettata dopo l'utilizzo.
+
+## <h3><strong>TEMPI DI SVILUPPO</strong></h3>
+
+I tempi di sviluppo fomiti sono indicati per ottene re un negativo con una ottimale estensione tonale rispetto agli L.E. suggeriti e fomiscono negativi adat ti alla stampa analogica e alla scansione digitale.
+
+<b>Diluizione</b>: 1+1 0 1+3
+<b>Temperatura</b>: 20°C
+
+<table class="mdctable sortable">
+   <thead>
+      <tr>
+         <th class="">Film</th>
+         <th class="">Dilution</th>
+         <th class="">ASA/ISO</th>
+         <th class="">35mm</th>
+         <th class="">120</th>
+         <th class="">Sheet</th>
+         <th class="">Temp</th>
+         <th class="">Notes</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td class="nobr">Rollei RPX 400</td>
+         <td>1+1</td>
+         <td>800</td>
+         <td>10</td>
+         <td>10</td>
+         <td>10</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Rollei RPX 400</td>
+         <td>1+1</td>
+         <td>400</td>
+         <td>8:30</td>
+         <td>8:30</td>
+         <td>8:30</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Rollei RPX 400</td>
+         <td>1+1</td>
+         <td>200</td>
+         <td>7</td>
+         <td>7</td>
+         <td>7</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Rollei RPX 100</td>
+         <td>1+1</td>
+         <td>200</td>
+         <td>9:30</td>
+         <td>9:30</td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Rollei RPX 100</td>
+         <td>1+1</td>
+         <td>100</td>
+         <td>8:30</td>
+         <td>8:30</td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Rollei RPX 100</td>
+         <td>1+1</td>
+         <td>50</td>
+         <td>7</td>
+         <td>7</td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kodak Tri-X 400</td>
+         <td>1+1</td>
+         <td>1600</td>
+         <td>9:30</td>
+         <td>9:30</td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kodak Tri-X 400</td>
+         <td>1+1</td>
+         <td>800</td>
+         <td>8:30</td>
+         <td>8:30</td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kodak Tri-X 400</td>
+         <td>1+1</td>
+         <td>400</td>
+         <td>7</td>
+         <td>7</td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kodak Tri-X 400</td>
+         <td>1+1</td>
+         <td>200</td>
+         <td>6</td>
+         <td>6</td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kodak TMax P3200</td>
+         <td>1+1</td>
+         <td>3200</td>
+         <td>13</td>
+         <td></td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kodak TMax P3200</td>
+         <td>1+1</td>
+         <td>1600</td>
+         <td>11</td>
+         <td></td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kodak TMax 400</td>
+         <td>1+1</td>
+         <td>1600</td>
+         <td>8:30</td>
+         <td>8:30</td>
+         <td>8:30</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kodak TMax 400</td>
+         <td>1+1</td>
+         <td>800</td>
+         <td>7:30</td>
+         <td>7:30</td>
+         <td>7:30</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kodak TMax 400</td>
+         <td>1+1</td>
+         <td>400</td>
+         <td>6:30</td>
+         <td>6:30</td>
+         <td>6:30</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kodak TMax 400</td>
+         <td>1+1</td>
+         <td>200</td>
+         <td>5</td>
+         <td>5</td>
+         <td>5</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kodak TMax 100</td>
+         <td>1+1</td>
+         <td>200</td>
+         <td>8:30</td>
+         <td>8:30</td>
+         <td>8:30</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kodak TMax 100</td>
+         <td>1+1</td>
+         <td>100</td>
+         <td>7:30</td>
+         <td>7:30</td>
+         <td>7:30</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kodak TMax 100</td>
+         <td>1+1</td>
+         <td>50</td>
+         <td>6:30</td>
+         <td>6:30</td>
+         <td>6:30</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kentmere 400</td>
+         <td>1+3</td>
+         <td>800</td>
+         <td>14</td>
+         <td></td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kentmere 400</td>
+         <td>1+1</td>
+         <td>800</td>
+         <td>10</td>
+         <td></td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kentmere 400</td>
+         <td>1+3</td>
+         <td>400</td>
+         <td>12:30</td>
+         <td></td>
+         <td></td>
+         <td>20C</td>
+         <td></td>
+      </tr>
+      <tr>
+         <td class="nobr">Kentmere 400</td>
+         <td>1+1</td>
+         <td>400</td>
+         <td>8:30</td>
+         <td></td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kentmere 400</td>
+         <td>1+3</td>
+         <td>200</td>
+         <td>10</td>
+         <td></td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kentmere 400</td>
+         <td>1+1</td>
+         <td>200</td>
+         <td>7</td>
+         <td></td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kentmere 100</td>
+         <td>1+1</td>
+         <td>100</td>
+         <td>8</td>
+         <td></td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Kentmere 100</td>
+         <td>1+1</td>
+         <td>50</td>
+         <td>6:30</td>
+         <td></td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">JCH StreetPan 400</td>
+         <td>1+1</td>
+         <td>400</td>
+         <td>10</td>
+         <td></td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Imago 320</td>
+         <td>1+1</td>
+         <td>640</td>
+         <td>9</td>
+         <td></td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Imago 320</td>
+         <td>1+1</td>
+         <td>320</td>
+         <td>7:30</td>
+         <td></td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Ilford Pan F+</td>
+         <td>1+1</td>
+         <td>50</td>
+         <td>6:30</td>
+         <td>6:30</td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Ilford HP5+</td>
+         <td>1+1</td>
+         <td>1600</td>
+         <td>12:30</td>
+         <td>12:30</td>
+         <td>12:30</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Ilford HP5+</td>
+         <td>1+1</td>
+         <td>800</td>
+         <td>10</td>
+         <td>10</td>
+         <td>10</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Ilford HP5+</td>
+         <td>1+1</td>
+         <td>400</td>
+         <td>8</td>
+         <td>8</td>
+         <td>8</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Ilford HP5+</td>
+         <td>1+1</td>
+         <td>200</td>
+         <td>6:30</td>
+         <td>6:30</td>
+         <td>6:30</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Ilford FP4+</td>
+         <td>1+1</td>
+         <td>125</td>
+         <td>7</td>
+         <td>7</td>
+         <td>7</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Ilford FP4+</td>
+         <td>1+1</td>
+         <td>50</td>
+         <td>6</td>
+         <td>6</td>
+         <td>6</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Ilford Delta 400 Pro</td>
+         <td>1+1</td>
+         <td>800</td>
+         <td>8</td>
+         <td>8</td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Ilford Delta 400 Pro</td>
+         <td>1+1</td>
+         <td>400</td>
+         <td>7</td>
+         <td>7</td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Ilford Delta 400 Pro</td>
+         <td>1+1</td>
+         <td>200</td>
+         <td>6</td>
+         <td>6</td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Ilford Delta 3200 Pro</td>
+         <td>1+1</td>
+         <td>3200</td>
+         <td>13</td>
+         <td>13</td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Ilford Delta 3200 Pro</td>
+         <td>1+1</td>
+         <td>1600</td>
+         <td>11</td>
+         <td>11</td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Ilford Delta 100 Pro</td>
+         <td>1+1</td>
+         <td>200</td>
+         <td>9:30</td>
+         <td>9:30</td>
+         <td>9:30</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Ilford Delta 100 Pro</td>
+         <td>1+1</td>
+         <td>100</td>
+         <td>8</td>
+         <td>8</td>
+         <td>8</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Ilford Delta 100 Pro</td>
+         <td>1+1</td>
+         <td>50</td>
+         <td>6:30</td>
+         <td>6:30</td>
+         <td>6:30</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Fuji Neopan 100 Acros II</td>
+         <td>1+1</td>
+         <td>200</td>
+         <td>10</td>
+         <td>10</td>
+         <td>10</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Fuji Neopan 100 Acros II</td>
+         <td>1+1</td>
+         <td>100</td>
+         <td>8</td>
+         <td>8</td>
+         <td>8</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Fuji Neopan 100 Acros II</td>
+         <td>1+1</td>
+         <td>50</td>
+         <td>6:30</td>
+         <td>6:30</td>
+         <td>6:30</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Fomapan 400</td>
+         <td>1+1</td>
+         <td>400</td>
+         <td>7</td>
+         <td>7</td>
+         <td>7</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Fomapan 100</td>
+         <td>1+1</td>
+         <td>100</td>
+         <td>6</td>
+         <td>6</td>
+         <td>6</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Bergger Pancro 400</td>
+         <td>1+1</td>
+         <td>400</td>
+         <td>9:30</td>
+         <td>9:30</td>
+         <td>9:30</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">Bergger Pancro 400</td>
+         <td>1+1</td>
+         <td>200</td>
+         <td>8</td>
+         <td>8</td>
+         <td>8</td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">AgfaPhoto APX 400</td>
+         <td>1+1</td>
+         <td>800</td>
+         <td>10</td>
+         <td></td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">AgfaPhoto APX 400</td>
+         <td>1+1</td>
+         <td>400</td>
+         <td>8:30</td>
+         <td></td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">AgfaPhoto APX 100</td>
+         <td>1+1</td>
+         <td>100</td>
+         <td>8</td>
+         <td></td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+      <tr>
+         <td class="nobr">AgfaPhoto APX 100</td>
+         <td>1+1</td>
+         <td>50</td>
+         <td>6:30</td>
+         <td></td>
+         <td></td>
+         <td>20C</td>
+      </tr>
+   </tbody>
+   <tfoot></tfoot>
+</table>
+
+## <h3><strong>BAGNO D`ARRESTO</strong></h3>
+
+E' raccomandato l'uso di un bagno di arresto tra il bagno di sviluppo e quello di fissaggio, se non diversamente specificato dal produttore della pellicola. Si consiglia l'utilizzo di ARS-IMAGO ST - STOP BATH.
+
+## <h3><strong>FISSAGGIO</strong></h3>
+
+Si consiglia l'utilizzo di ARS-IMAGO FX - FIXER UNIVERSAL come bagno di fissaggio. Si racco manda di non fissare le pellicole oltre il neces sario per apprezzare al pieno l'elevata risoluzi one che caratteriza questo rivelatore. Per evitare tempi di fissaggio lunghi è consigliato l'utilizzo di una soluzione fresca o rigenerata di fissaggio rapido non indurente, alla massima concentra zione consigliata dal produttore (in genere 1+4).
+
+## <h3><strong>LAVAGGIO</strong></h3>
+
+Lavare in acqua corrente a 20°C per 10-15 minuti o eseguire una serie di riempimenti e svuota menti della tank con incremento graduale del numero dei ribaltamenti.
+
+## <h3><strong>IMBIMBENTE</strong></h3>
+
+Dopo il lavaggio, come ultimo bagno, si consiglia l'utilizzo di una soluzione imbimbente. E' consigliato l'uso di ARS-IMAGO WB - WASHING BATH.
+
+## <h3><strong>ASCIUGATURA</strong></h3>
+
+Asciugare la pellicola in un luogo chiuso, lontano da polvere e correnti d'aria.

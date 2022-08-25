@@ -46,7 +46,11 @@ export const SUBTITLE=[
 	'DURATA',
 	'Caratteristiche principali e vantaggi',
 	'PROCESSO',
-	'TROUBLE SHOOTING'
+	'TROUBLE SHOOTING',
+	'CARATTERISTICHE',
+	'TEMPERATURA',
+	'CAPACITA` E DURATA',
+	'IMBIMBENTE'
 ]
 
 export const BASE_PATH='/AstroDocu/';
