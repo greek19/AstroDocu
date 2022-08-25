@@ -36,7 +36,7 @@ export const SUBTITLE=[
 	'PREPARAZIONE','TEMPERATURA', 'AGITAZIONE','TEMPI DI SVILUPPO',"BAGNO D`ARRESTO",'FISSAGGIO','LAVAGGIO','IMBIMBENTE','ASCIUGATURA','CAPACITA','DURATA'
 ]
 
-export const BASE_PATH='AstroDocu/';
+export const BASE_PATH='/AstroDocu/';
 
 export const SIDEBAR = {
 	en: [
