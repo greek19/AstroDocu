@@ -15,7 +15,7 @@ export const OPEN_GRAPH = {
 };
 
 export const KNOWN_LANGUAGES = {
-	English: 'en',
+	English: 'it',
 };
 
 // Uncomment this to add an "Edit this page" button to every page of documentation.
@@ -35,6 +35,8 @@ export const ALGOLIA = {
 export const SUBTITLE=[
 	'PREPARAZIONE','TEMPERATURA', 'AGITAZIONE','TEMPI DI SVILUPPO',"BAGNO D`ARRESTO",'FISSAGGIO','LAVAGGIO','IMBIMBENTE','ASCIUGATURA','CAPACITA','DURATA'
 ]
+
+export const BASE_PATH='AstroDocu/';
 
 export const SIDEBAR = {
 	en: [
