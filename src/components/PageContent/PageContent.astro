@@ -6,7 +6,7 @@ const { frontmatter, headings, githubEditUrl } = Astro.props;
 const title = frontmatter.title;
 ---
 
-<!-- <article id="article" class="content">
+<article id="article" class="content">
 	<section class="main-section">
 		<h1 class="content-title" id="overview">{title}</h1>
 		<nav class="block sm:hidden">
@@ -17,7 +17,8 @@ const title = frontmatter.title;
 	<nav class="block sm:hidden">
 		<MoreMenu editHref={githubEditUrl} />
 	</nav>
-</article> -->
+</article>
+
 <style>
 	.content {
 		padding: 0;
