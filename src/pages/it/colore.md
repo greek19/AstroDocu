@@ -93,7 +93,7 @@ trattamento C-41.
 </div>
 </div>
 
-## <u>PROCESSO </u>
+## <u>PROCESSO</u>
 
 <table>
   <tr>
