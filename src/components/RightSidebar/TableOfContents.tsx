@@ -26,27 +26,27 @@ const TableOfContents: FunctionalComponent<{ headings: MarkdownHeading[] }> = ({
 		};
 	}, []);
 
-	return (
-		<>
-			<h2 class="heading">On this page</h2>
-			<ul>
-				<li class={`heading-link depth-2 ${activeId === 'overview' ? 'active' : ''}`.trim()}>
-					{/* <a href="#overview">Overview</a> */}
-				</li>
-				{headings
-					.filter(({ depth }) => depth > 1 && depth < 4)
-					.map((heading) => (
-						<li
-							class={`heading-link depth-${heading.depth} ${
-								activeId === heading.slug ? 'active' : ''
-							}`.trim()}
-						>
-							{SUBTITLE.includes(heading.text) ? 	 <a href={`#${heading.slug}`}>&nbsp;- {heading.text}</a> : <a href={`#${heading.slug}`}>{heading.text}</a>}
-						</li>
-					))}
-			</ul>
-		</>
-	);
+	// return (
+	// 	<>
+	// 		<h2 class="heading">On this page</h2>
+	// 		<ul>
+	// 			<li class={`heading-link depth-2 ${activeId === 'overview' ? 'active' : ''}`.trim()}>
+	// 				{/* <a href="#overview">Overview</a> */}
+	// 			</li>
+	// 			{headings
+	// 				.filter(({ depth }) => depth > 1 && depth < 4)
+	// 				.map((heading) => (
+	// 					<li
+	// 						class={`heading-link depth-${heading.depth} ${
+	// 							activeId === heading.slug ? 'active' : ''
+	// 						}`.trim()}
+	// 					>
+	// 						{SUBTITLE.includes(heading.text) ? 	 <a href={`#${heading.slug}`}>&nbsp;- {heading.text}</a> : <a href={`#${heading.slug}`}>{heading.text}</a>}
+	// 					</li>
+	// 				))}
+	// 		</ul>
+	// 	</>
+	// );
 };
 
 export default TableOfContents;
