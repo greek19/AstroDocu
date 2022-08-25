@@ -53,9 +53,9 @@ export const SIDEBAR = {
 	it:[
 		{ text: '', header: true },
 		{ text: 'Chimica', header: true },
-		{ text: 'Introduction', link: 'AstroDocu/it/introduction' },
-		{text: 'Colore', link: 'AstroDocu/it/colore'},
-		{text: 'Bianco e nero', link: 'AstroDocu/it/biancoNero'},
+		{ text: 'Introduction', link: 'it/introduction' },
+		{text: 'Colore', link: 'it/colore'},
+		{text: 'Bianco e nero', link: 'it/biancoNero'},
 
 	]
 };
