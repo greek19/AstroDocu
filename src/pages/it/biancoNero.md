@@ -659,3 +659,16 @@ E' possibile sviluppare fino a 40 pellicole per ogni 300ml di liquido concentrat
 Si consiglia di usare la soluzione concentrata en tro 6 mesi dall'apertura. É raccomandato elimin are l'aria dalla confezione tramite compressione della stessa, tramite l'inserimento di biglie in vetro. o tramite riempimento con gas inerte.
 
 ## **ARS-IMAGO FE**
+
+Lo sviluppo ars-imago FE è uno sviluppo per pellicola bianco e nero ecologico. E' uno sviluppo a base di acido ascorbico (idrochinone free) che, grazie a questa solzione restituisce un'accurata resa della grana e sfrutta a fondo la sensibilità delle pellicole. Restituisce negativi molto nitidi potenziando il contrasto sui neri e migliorano i dettagli nelle alte luci.
+
+## <h3><strong>PREPARAZIONE</strong></h3>
+
+ARS-IMAGO FE ECO FILM DEVELOPER è una soluzione concentrata che può essere diluita 1+1 o 1+3. Preparare la soluzione di lavoro con acqua corrente. Il volume della soluzione di lavoro neces saria dipende dalla dimensione e dal tipo di Tank utilizzata e dal numero di pellicole/spirali presenti.
+
+<b>DILUIZIONE 1+1 - Soluzione stock</b>
+
+<div style="padding: 2px 16px;">
+        <p>500 ml &emsp; + &emsp; 500 ml &emsp; =  &emsp; 1L</p>
+        <p>acqua   &emsp;&emsp; chimica &emsp;    stabilizzatore</p>
+    </div>
