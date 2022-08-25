@@ -11,5 +11,4 @@ export default defineConfig({
         react(),
     ],
     site: `https://greek19.github.io/AstroDocu`,
-    base: "/AstroDocu",
 });
