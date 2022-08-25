@@ -10,6 +10,6 @@ export default defineConfig({
         // Enable React for the Algolia search component.
         react(),
     ],
-    site: `https://greek19.github.io/`,
+    site: `https://greek19.github.io/AstroDocu`,
     base: "/AstroDocu",
 });
